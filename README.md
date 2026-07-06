@@ -1,10 +1,11 @@
-<img src="preview.png" width="320" alt="预览">
 # 谁说我非得遭这个罪 / Suffering Is Optional
 
 你再也不用被重复劳作和无意义的折磨绑架。
 You don't have to suffer just because the game says so.
 
 **所有功能均可独立开关。Every feature independently toggleable.**
+
+<img src="preview.png" width="320" alt="预览">
 
 ---
 
