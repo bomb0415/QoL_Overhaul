@@ -1,6 +1,5 @@
-# 谁说我非得遭这个罪 / Suffering Is Optional
-
 <img src="preview.png" width="320" alt="预览">
+# 谁说我非得遭这个罪 / Suffering Is Optional
 
 你再也不用被重复劳作和无意义的折磨绑架。
 You don't have to suffer just because the game says so.
